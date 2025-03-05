@@ -1,0 +1,38 @@
+# Dependencies
+node_modules/
+package-lock.json
+yarn.lock
+
+# Python environments
+venv/
+env/
+.venv/
+__pycache__/
+*.py[cod]
+*.so
+.Python
+build/
+dist/
+
+# Backup folders
+**/backup/
+*.bak
+*.backup
+*.old
+
+# PDF uploads
+pdf_uploads/
+uploads/
+uploaded_pdfs/
+
+# Vector store
+vector_store/
+vectorstore/
+embeddings/
+
+# IDE files
+.idea/
+.vscode/
+*.swp
+*~
+.DS_Store
